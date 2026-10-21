@@ -7,12 +7,6 @@
   <img src="https://img.shields.io/github/followers/mak4x13?label=Followers&style=flat&color=blue" alt="GitHub followers"/>
 </p>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=mak4x13">
-    <img src="https://github-profile-trophy.vercel.app/?username=mak4x13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-  </a>
-</p>
-
 I'm an AI undergraduate and developer interested in building practical AI systems, conducting research, and using technology to address real-world challenges. My work spans computer vision, NLP, RAG, recommendation systems, and multi-agent AI applications.
 
 - 🔭 **Currently working on:** Segmentation-based interaction analysis for violence detection in smart cities.
@@ -132,11 +126,6 @@ A multi-agent water allocation simulator focused on agricultural water distribut
   <img src="https://streak-stats.demolab.com?user=mak4x13&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-### Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mak4x13&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-</p>
 
 ### Contribution Calendar
 
